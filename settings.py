@@ -1,3 +1,4 @@
+COMPANY = "Cambiame"
 REDMINE_PUBLIC_URL = 'http://example.site.com/'
 REDMINE_API_URL = 'http://localhost/'
 REDMINE_KEY = 'changeme'
